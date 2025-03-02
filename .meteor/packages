@@ -24,3 +24,6 @@ insecure@1.0.8                # Allow all DB writes from clients (for prototypin
 
 hot-module-replacement@0.5.4  # Update code in development without reloading the page
 blaze-hot               # Update files using Blaze's API with HMR
+dev-error-overlay
+reactive-dict
+accounts-password
