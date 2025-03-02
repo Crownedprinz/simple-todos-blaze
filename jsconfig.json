@@ -67,6 +67,14 @@
         "/Users/crownedprinz/.meteor/packages/accounts-password/3.0.3/web.browser/password_client.js",
         "/Users/crownedprinz/.meteor/packages/accounts-password/3.0.3/web.browser/email_templates.js",
         "/Users/crownedprinz/.meteor/packages/accounts-password/3.0.3/web.browser/password_server.js"
+      ],
+      "meteor/meteortesting:mocha": [
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/client.js",
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/browser-shim.js",
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/prepForHTMLReporter.js",
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/runtimeArgs.js",
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/server.handleCoverage.js",
+        "/Users/crownedprinz/.meteor/packages/meteortesting_mocha/3.2.0/web.browser/server.js"
       ]
     }
   },

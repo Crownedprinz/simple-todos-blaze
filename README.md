@@ -8,3 +8,7 @@ This is a simple to-do list app built with Meteor and Blaze. It allows users to:
 - Login and logout with Meteor Accounts
 
 This app serves as a basic demonstration and starting point for building more complex Meteor applications.
+
+## Deployment
+
+Deploying this app is easy on [Meteor Galaxy](https://www.meteor.com/hosting), Meteor's official hosting platform.
